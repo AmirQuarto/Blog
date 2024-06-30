@@ -13,6 +13,9 @@ website:
   repo-actions: [issue]
   navbar:
     background: primary
+    left:
+      - text: "Blog"
+        href: blog/index.qmd
     search: true
   sidebar:
     style: floating
