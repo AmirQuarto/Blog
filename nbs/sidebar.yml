@@ -1,0 +1,6 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - '@as_method, convert your functions to pandas methods.ipynb'

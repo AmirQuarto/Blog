@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "nbdev-hello-world"
-  site-url: "https://fastai.github.io/nbdev-hello-world"
-  description: "Hello world from nbdev"
+  title: "PandasExtendedMethods"
+  site-url: "https://AmirQuarto.github.io/Blog"
+  description: "blog using nbdev"
   repo-branch: master
-  repo-url: "https://github.com/fastai/nbdev-hello-world"
+  repo-url: "https://github.com/AmirQuarto/Blog"
